@@ -1,0 +1,39 @@
+h2{
+    background-color:#fff022;
+}
+
+.margin{
+    margin: 30px 15px 10px 5px;
+    padding: 15px;
+    background-color: aqua;
+    border: 10px solid red;
+}
+
+.pai{
+    background-color: blueviolet;
+    width: 50%;
+    font-size: 2em;
+}
+
+.filho{
+    background-color: aqua;
+    width: 50%;
+    font-size: 1rem;
+}
+
+.com-border{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: solid 10px green;
+}
+
+.sem-border{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: solid 10px green;
+    box-sizing: border-box;
+}
